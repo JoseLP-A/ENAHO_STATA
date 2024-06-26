@@ -1,4 +1,4 @@
-
+hola
 /* 
 A continuación, comparto la sintaxis para estimar las necesidades básicas insatisfechas (NBI) utilizando la 
 Encuesta Nacional de Hogares (ENAHO) de los años 2017, 2018 y 2021 en el software STATA. Las NBI se basan en un conjunto 
